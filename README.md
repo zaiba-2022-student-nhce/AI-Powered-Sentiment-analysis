@@ -85,11 +85,10 @@ npm run dev
 ### 4. Access the App
 Visit: [http://localhost:3000](http://localhost:3000)
 
-## License
-This project is licensed under the MIT License.
+
 
 ## Contributors
-- **Your Name** – [GitHub Profile](https://github.com/yourusername)
+- **** – [GitHub Profile](https://github.com/shoukhathalikhan)
 
 ## Acknowledgements
 - OpenAI's ChatGPT for assistance in documentation.
