@@ -88,7 +88,7 @@ Visit: [http://localhost:3000](http://localhost:3000)
 
 
 ## Contributors
-- **** – [GitHub Profile](https://github.com/shoukhathalikhan)
+-  – [GitHub Profile](https://github.com/shoukhathalikhan)
 
 ## Acknowledgements
 - OpenAI's ChatGPT for assistance in documentation.
